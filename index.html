@@ -63,13 +63,11 @@
   .btn-ghost-cream:hover{border-color:var(--accent);color:var(--accent-deep)}
   .btn-wa{background:var(--wa);color:#04331a}
 
-  /* top notice bar */
   .topbar{background:var(--bar);color:#d8d0c4}
   .topbar-in{display:flex;justify-content:center;gap:10px;align-items:center;font-size:.78rem;
     padding:9px 0;flex-wrap:wrap}
   .topbar .sep{color:var(--accent);opacity:.7}
 
-  /* nav */
   header.nav{position:sticky;top:0;z-index:50;background:rgba(246,243,237,.92);border-bottom:1px solid var(--line-cream)}
   .nav-in{display:flex;align-items:center;justify-content:space-between;height:70px}
   .logo{font-family:'Plus Jakarta Sans',sans-serif;font-weight:800;font-size:1.45rem;letter-spacing:-.03em;color:var(--ink)}
@@ -79,12 +77,10 @@
   .nav-links a:hover{color:var(--accent-deep)}
   .nav-toggle{display:none;background:none;border:0;font-size:1.5rem;color:var(--ink);cursor:pointer}
 
-  /* info notice */
   .notice{background:#fbeede;border-bottom:1px solid #f0d9b6;color:#7a5526;
     text-align:center;font-size:.9rem;padding:11px 24px}
   .notice a{color:var(--accent-deep);font-weight:700;text-decoration:underline}
 
-  /* hero */
   .hero{color:var(--on-brown);text-align:center;
     background:linear-gradient(180deg,var(--brown-top),var(--brown-bot))}
   .hero-in{padding:70px 24px 78px;max-width:820px;margin:0 auto}
@@ -96,7 +92,6 @@
   .hero .sub{font-size:.9rem;color:var(--on-brown-mut);margin-bottom:30px}
   .hero .row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
 
-  /* sections */
   section{padding:74px 0}
   .sec-head{text-align:center;max-width:660px;margin:0 auto 44px}
   .sec-head h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin:12px 0}
@@ -104,7 +99,6 @@
   .lead-block{max-width:720px;margin:0 auto;text-align:center;color:var(--ink-soft);font-size:1.08rem}
   .lead-block strong{color:var(--ink)}
 
-  /* services grid */
   .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
   .card{display:flex;flex-direction:column;background:var(--cream-card);border:1px solid var(--line-cream);
     border-radius:var(--r);padding:26px}
@@ -114,7 +108,6 @@
   .card p{font-size:.93rem;color:var(--ink-soft);flex:1}
   .card .go{margin-top:16px;font-family:'Plus Jakarta Sans',sans-serif;font-weight:700;font-size:.86rem;color:var(--accent-deep)}
 
-  /* steps */
   .how{background:linear-gradient(180deg,var(--brown-top),var(--brown-bot));color:var(--on-brown)}
   .how .sec-head h2{color:#fff}
   .how .sec-head p{color:var(--on-brown-mut)}
@@ -126,12 +119,10 @@
   .step h3{font-size:1.04rem;margin-bottom:7px;color:#fff;font-weight:700}
   .step p{font-size:.89rem;color:var(--on-brown-mut)}
 
-  /* benefits */
   .benefits{display:grid;grid-template-columns:1fr 1fr;gap:14px 30px;max-width:880px;margin:0 auto}
   .benefit{padding-left:32px;position:relative;font-size:.98rem;color:#48413a}
   .benefit::before{content:"✓";position:absolute;left:0;color:var(--accent-deep);font-weight:800}
 
-  /* faq */
   .faq{max-width:780px;margin:0 auto}
   details{border:1px solid var(--line-cream);border-radius:14px;background:var(--cream-card);margin-bottom:12px;overflow:hidden}
   details[open]{border-color:#e2cdab}
@@ -143,7 +134,6 @@
   details .body{padding:0 24px 22px;color:var(--ink-soft);font-size:.96rem}
   details .body a{color:var(--accent-deep);text-decoration:underline}
 
-  /* cta band */
   .cta{padding-bottom:96px}
   .band{background:linear-gradient(135deg,var(--brown-top),#2f1f12);border-radius:26px;padding:58px 40px;
     text-align:center;color:var(--on-brown)}
@@ -151,7 +141,6 @@
   .band p{color:var(--on-brown-mut);max-width:52ch;margin:0 auto 28px}
   .band .row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
 
-  /* footer */
   footer{background:#1f1812;color:#cabca9;padding:60px 0 32px}
   .foot-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:32px}
   .foot-brand .logo{color:#fff;font-size:1.5rem}
@@ -169,7 +158,6 @@
   .foot-bottom a{color:var(--accent-hi)}
   .disclaimer{font-size:.8rem;color:#8d8170;margin-top:14px;max-width:72ch}
 
-  /* floating */
   .fab{position:fixed;bottom:24px;right:24px;z-index:60;width:58px;height:58px;border-radius:50%;
     background:var(--wa);display:flex;align-items:center;justify-content:center;box-shadow:0 10px 26px -10px rgba(0,0,0,.5)}
   .fab svg{width:30px;height:30px;fill:#fff}
@@ -190,12 +178,10 @@
 </head>
 <body>
 
-<!-- TOP BAR -->
 <div class="topbar"><div class="wrap topbar-in">
   <span>ICO Registered</span><span class="sep">·</span><span>GDPR Compliant</span><span class="sep">·</span><span>Data Protected</span>
 </div></div>
 
-<!-- NAV -->
 <header class="nav"><div class="wrap nav-in">
   <a href="https://nridirect.uk" class="logo">Nri<b>Direct</b></a>
   <nav class="nav-links" id="menu">
@@ -209,13 +195,11 @@
   <button class="nav-toggle" aria-label="Menu" onclick="document.getElementById('menu').classList.toggle('open')">☰</button>
 </div></header>
 
-<!-- INFO NOTICE -->
 <div class="notice">
   This is an information page about NriDirect. To apply or get started, visit the official website &rarr;
   <a href="https://nridirect.uk">nridirect.uk</a>
 </div>
 
-<!-- HERO -->
 <section class="hero"><div class="hero-in">
   <span class="pill"><span class="led"></span> Trusted by 5000+ NRIs worldwide</span>
   <h1>UK help with OCI, Indian passport, visa &amp; PAN applications</h1>
@@ -227,7 +211,6 @@
   </div>
 </div></section>
 
-<!-- ABOUT -->
 <section><div class="wrap">
   <div class="sec-head">
     <span class="eyebrow">About</span>
@@ -236,7 +219,6 @@
   <p class="lead-block"><strong>NriDirect</strong> helps NRIs in the UK and Europe complete Indian government document applications without the usual stress of rejected photos, wrong forms or lost VFS appointments. The team handles the full process remotely — you only attend VFS when required, with a fully prepared file. Operating since 2018, with a <strong>98% first-time approval rate</strong> across 5,000+ applications. Full details and pricing are on the official website, <a href="https://nridirect.uk" style="color:var(--accent-deep);text-decoration:underline;font-weight:600">nridirect.uk</a>.</p>
 </div></section>
 
-<!-- SERVICES -->
 <section style="background:var(--cream-card);border-block:1px solid var(--line-cream)"><div class="wrap">
   <div class="sec-head">
     <span class="eyebrow">Services</span>
@@ -259,7 +241,6 @@
   </div>
 </div></section>
 
-<!-- HOW IT WORKS -->
 <section class="how"><div class="wrap">
   <div class="sec-head">
     <span class="eyebrow">How It Works</span>
@@ -274,7 +255,6 @@
   </div>
 </div></section>
 
-<!-- BENEFITS -->
 <section><div class="wrap">
   <div class="sec-head">
     <span class="eyebrow">Why people use NriDirect</span>
@@ -291,7 +271,6 @@
   </div>
 </div></section>
 
-<!-- FAQ -->
 <section style="background:var(--cream-card);border-block:1px solid var(--line-cream)"><div class="wrap">
   <div class="sec-head">
     <span class="eyebrow">FAQ</span>
@@ -307,7 +286,6 @@
   <div style="text-align:center;margin-top:28px"><a href="https://nridirect.uk/faq" class="btn btn-ghost-cream">Read all FAQs →</a></div>
 </div></section>
 
-<!-- CTA -->
 <section class="cta"><div class="wrap">
   <div class="band">
     <h2>Get started on the official website</h2>
@@ -319,7 +297,6 @@
   </div>
 </div></section>
 
-<!-- FOOTER -->
 <footer><div class="wrap">
   <div class="foot-grid">
     <div class="foot-brand">
@@ -365,7 +342,6 @@
   </div>
 </div></footer>
 
-<!-- FLOATING WHATSAPP -->
 <a class="fab" href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents." aria-label="WhatsApp NriDirect">
   <svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.6-.5-5.1-1.4l-.4-.2-4.9 1 1-4.7-.2-.4c-1-1.6-1.5-3.4-1.5-5.3C4.4 9.6 9.6 4.4 16 4.4S27.6 9.6 27.6 16 22.4 24.8 16 24.8zm6.5-7.8c-.4-.2-2.1-1-2.4-1.2-.3-.1-.6-.2-.8.2-.2.4-.9 1.2-1.1 1.4-.2.2-.4.2-.8.1-.4-.2-1.5-.6-2.9-1.8-1.1-1-1.8-2.2-2-2.5-.2-.4 0-.6.2-.7.2-.2.4-.4.5-.6.2-.2.2-.4.4-.6.1-.2 0-.5 0-.7-.1-.2-.8-1.9-1.1-2.6-.3-.7-.6-.6-.8-.6h-.7c-.2 0-.6.1-.9.5-.3.4-1.2 1.2-1.2 2.9s1.2 3.3 1.4 3.6c.2.2 2.4 3.7 5.9 5.1 2.9 1.2 3.5 1 4.1.9.6-.1 2.1-.8 2.4-1.7.3-.8.3-1.6.2-1.7-.1-.2-.3-.3-.7-.5z"/></svg>
 </a>
