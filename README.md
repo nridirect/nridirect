@@ -1,287 +1,187 @@
-<!--
-  NriDirect — OCI, Indian Passport, Visa & PAN services in the UK · https://nridirect.uk
-  Keywords: OCI application UK, Indian passport renewal UK, OCI renewal, NRI PAN card,
-  surrender certificate, police clearance certificate, VFS Global booking UK, OCI through spouse,
-  newborn Indian passport UK, OCI transfer new passport, Indian visa services UK, NRI document service.
-  Links carry NO rel attribute, so they remain dofollow on any renderer that does not strip them.
-  GitHub.com itself adds rel="nofollow" to rendered README links automatically.
--->
-
 <div align="center">
 
-  <a href="https://nridirect.uk">
-    <img src="https://nridirect.uk/opengraph-image" width="860" alt="NriDirect — OCI, Indian Passport, Visa & PAN services handled for you in the UK">
-  </a>
+<a href="https://nridirect.uk">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0E0D,100:2b2620&height=210&section=header&text=NriDirect&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=OCI%20·%20Indian%20Passport%20·%20Visa%20·%20PAN%20—%20handled%20for%20you%20in%20the%20UK&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="NriDirect" width="100%">
+</a>
 
-  <h1>NriDirect — OCI, Indian Passport, Visa &amp; PAN Services in the UK</h1>
+<a href="https://nridirect.uk/services">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0F0E0D&center=true&vCenter=true&width=720&lines=Forms+filled.+Photos+to+ICAO+spec.;Documents+uploaded.+VFS+booked.;You+just+show+up+on+the+day." alt="What we do">
+</a>
 
-  <h3>Document checks, photo formatting, portal uploads &amp; VFS booking — all done for you.<br>You just show up on the day.</h3>
+<br><br>
 
-  <p>
-    <a href="https://nridirect.uk/trust"><img src="https://img.shields.io/badge/ICO-Registered-0F0E0D?style=flat-square" alt="ICO Registered"></a>
-    <a href="https://nridirect.uk"><img src="https://img.shields.io/badge/98%25-First--Time_Approval-0F0E0D?style=flat-square" alt="98% First-Time Approval"></a>
-    <a href="https://nridirect.uk"><img src="https://img.shields.io/badge/5000+-Applications_Handled-0F0E0D?style=flat-square" alt="5000+ Applications Handled"></a>
-    <a href="https://nridirect.uk/trust"><img src="https://img.shields.io/badge/GDPR-Compliant-0F0E0D?style=flat-square" alt="GDPR Compliant"></a>
-    <a href="https://nridirect.uk/about"><img src="https://img.shields.io/badge/Trusted_since-2018-0F0E0D?style=flat-square" alt="Trusted since 2018"></a>
-  </p>
+<a href="https://nridirect.uk/trust"><img src="https://img.shields.io/badge/ICO-Registered-0F0E0D?style=flat-square" alt="ICO Registered"></a>
+<img src="https://img.shields.io/badge/98%25-First--Time_Approval-0F0E0D?style=flat-square" alt="98% First-Time Approval">
+<img src="https://img.shields.io/badge/5000+-Applications_Handled-0F0E0D?style=flat-square" alt="5000+ Applications">
+<a href="https://nridirect.uk/trust"><img src="https://img.shields.io/badge/GDPR-Compliant-0F0E0D?style=flat-square" alt="GDPR Compliant"></a>
+<a href="https://nridirect.uk/about"><img src="https://img.shields.io/badge/Since-2018-0F0E0D?style=flat-square" alt="Since 2018"></a>
 
-  <p>
-    <a href="https://nridirect.uk/services"><img src="https://img.shields.io/badge/%E2%96%B6%20Get%20Started-0F0E0D?style=for-the-badge" alt="Get Started"></a>
-    &nbsp;
-    <a href="https://nridirect.uk/tools/check-oci-eligibility"><img src="https://img.shields.io/badge/Free%20OCI%20Eligibility%20Check-1A1A1A?style=for-the-badge" alt="Free OCI Eligibility Check"></a>
-    &nbsp;
-    <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20Indian%20document%20service."><img src="https://img.shields.io/badge/WhatsApp%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp NriDirect"></a>
-  </p>
+<br><br>
+
+<a href="https://nridirect.uk/services"><img src="https://img.shields.io/badge/%E2%96%B6%20Get%20Started-0F0E0D?style=for-the-badge" alt="Get Started"></a>
+&nbsp;
+<a href="https://nridirect.uk/tools/check-oci-eligibility"><img src="https://img.shields.io/badge/Free%20OCI%20Eligibility%20Check-2b2620?style=for-the-badge" alt="Free OCI Eligibility Check"></a>
+&nbsp;
+<a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20Indian%20document%20service."><img src="https://img.shields.io/badge/WhatsApp%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp NriDirect"></a>
 
 </div>
 
-<hr>
+---
 
-<h2>🇮🇳 What is NriDirect?</h2>
+> [!IMPORTANT]
+> **[NriDirect](https://nridirect.uk) is a UK-based, ICO-registered document concierge for Indian-origin families.** We handle **OCI, Indian passport, visa, PAN and certificate applications end-to-end** — no office visit, **98% first-time approval**, **5,000+ applications since 2018**.
 
-<p>
-  <a href="https://nridirect.uk"><strong>NriDirect</strong></a> is a UK-based, <strong>ICO-registered</strong> document assistance service for Indian-origin families. We handle <strong>OCI, Indian passport, visa, PAN and certificate applications end-to-end</strong> — forms filled, photos resized to exact 2026 ICAO spec, documents uploaded, and your <strong>VFS Global appointment booked for you</strong>. No office visit. <strong>98% first-time approval. 5,000+ applications handled since 2018.</strong>
-</p>
+> [!TIP]
+> Not sure which service you need? [**Message us on WhatsApp**](https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents.) for a free 2-minute check — we'll confirm the right route *before* you proceed.
 
-<blockquote>
-  💬 <strong>Not sure which service you need?</strong> <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents.">Message us on WhatsApp</a> for a free 2-minute check — we'll confirm the right route <em>before</em> you pay anything.
-</blockquote>
+<br>
 
-<hr>
-
-<h2>🚀 Choose Your Service</h2>
-
-<p>Fixed fees, full prep included, and your VFS appointment booked for you — pick yours and we'll take it from here.</p>
+## 🚀 Choose Your Service
 
 <table>
   <thead>
-    <tr><th align="left">Service</th><th align="left">What it's for</th><th align="left">From</th></tr>
+    <tr><th align="left">Service</th><th align="left">What it's for</th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td>🆕 <a href="https://nridirect.uk/services/fresh-oci-application"><strong>Fresh OCI Card Application from the UK</strong></a></td>
-      <td>Your first OCI card — lifelong right to live, work &amp; visit India. 98% approved first time.</td>
-      <td><strong>£100</strong></td>
-    </tr>
-    <tr>
-      <td>🔁 <a href="https://nridirect.uk/services/oci-transfer-new-passport"><strong>Update OCI to New Passport (OCI Transfer)</strong></a></td>
-      <td>New UK passport? Re-link your OCI before you fly. Done online, no VFS.</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>♻️ <a href="https://nridirect.uk/services/oci-renewal-misc-updates"><strong>OCI Renewal &amp; Misc Updates</strong></a></td>
-      <td>Renew OCI or update name/photo/details. Mandatory at ages 20 and 50.</td>
-      <td><strong>£100</strong></td>
-    </tr>
-    <tr>
-      <td>💑 <a href="https://nridirect.uk/services/oci-through-spouse"><strong>OCI Through Spouse</strong></a></td>
-      <td>OCI as the spouse of an Indian citizen or OCI cardholder.</td>
-      <td><strong>£120</strong></td>
-    </tr>
-    <tr>
-      <td>🛂 <a href="https://nridirect.uk/services/indian-passport-renewal"><strong>Indian Passport Renewal in the UK</strong></a></td>
-      <td>Expired or out of pages? Renew from the UK — fast-track available.</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>👶 <a href="https://nridirect.uk/services/new-passport-newborn"><strong>Newborn's First Indian Passport</strong></a></td>
-      <td>Birth registration, application, documents &amp; VFS appointment included.</td>
-      <td><strong>£160</strong></td>
-    </tr>
-    <tr>
-      <td>📕 <a href="https://nridirect.uk/services/passport-surrender-certificate"><strong>Surrender Indian Passport Certificate</strong></a></td>
-      <td>Took British citizenship? Required before OCI.</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>📦 <a href="https://nridirect.uk/services/surrender-passport-apply-oci"><strong>Surrender Passport + Apply OCI (Bundle)</strong></a></td>
-      <td>Surrender and apply for OCI in one guided bundle. £130 service fee.</td>
-      <td><strong>£160</strong></td>
-    </tr>
-    <tr>
-      <td>🪪 <a href="https://nridirect.uk/services/nri-pan-card"><strong>NRI PAN Card</strong></a></td>
-      <td>Your Indian tax ID for property, banking &amp; investments. No VFS — by post.</td>
-      <td><strong>£100</strong></td>
-    </tr>
-    <tr>
-      <td>👮 <a href="https://nridirect.uk/services/police-clearance-certificate"><strong>Police Clearance Certificate (PCC)</strong></a></td>
-      <td>PCC for visas, PR &amp; jobs abroad — Canada, Australia &amp; more.</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>📤 <a href="https://nridirect.uk/services/oci-passport-upload-assistance"><strong>OCI &amp; Passport Document Upload Assistance</strong></a></td>
-      <td>Already prepared? We format photos, convert docs &amp; submit on the portal.</td>
-      <td><strong>£47</strong></td>
-    </tr>
-    <tr>
-      <td>🇬🇧 <a href="https://nridirect.uk/services/uk-passport-renewal"><strong>UK Passport Renewal Assistance</strong></a></td>
-      <td>Photo compliance, form review &amp; countersignatory guidance before HMPO.</td>
-      <td><strong>£144</strong></td>
-    </tr>
+    <tr><td>🆕 <a href="https://nridirect.uk/services/fresh-oci-application"><b>Fresh OCI Card Application</b></a></td><td>Your first OCI card — lifelong right to live, work &amp; visit India.</td></tr>
+    <tr><td>🔁 <a href="https://nridirect.uk/services/oci-transfer-new-passport"><b>Update OCI to New Passport</b></a></td><td>New UK passport? Re-link your OCI before you fly. Done online.</td></tr>
+    <tr><td>♻️ <a href="https://nridirect.uk/services/oci-renewal-misc-updates"><b>OCI Renewal &amp; Misc Updates</b></a></td><td>Renew or update details. Mandatory at ages 20 and 50.</td></tr>
+    <tr><td>💑 <a href="https://nridirect.uk/services/oci-through-spouse"><b>OCI Through Spouse</b></a></td><td>OCI as the spouse of an Indian citizen or OCI cardholder.</td></tr>
+    <tr><td>🛂 <a href="https://nridirect.uk/services/indian-passport-renewal"><b>Indian Passport Renewal</b></a></td><td>Expired or out of pages? Renew from the UK — fast-track available.</td></tr>
+    <tr><td>👶 <a href="https://nridirect.uk/services/new-passport-newborn"><b>Newborn's First Indian Passport</b></a></td><td>Birth registration, application &amp; VFS appointment included.</td></tr>
+    <tr><td>📕 <a href="https://nridirect.uk/services/passport-surrender-certificate"><b>Surrender Certificate</b></a></td><td>Took British citizenship? Required before OCI.</td></tr>
+    <tr><td>📦 <a href="https://nridirect.uk/services/surrender-passport-apply-oci"><b>Surrender + Apply OCI (Bundle)</b></a></td><td>Surrender and apply for OCI in one guided bundle.</td></tr>
+    <tr><td>🪪 <a href="https://nridirect.uk/services/nri-pan-card"><b>NRI PAN Card</b></a></td><td>Your Indian tax ID for property, banking &amp; investments. No VFS.</td></tr>
+    <tr><td>👮 <a href="https://nridirect.uk/services/police-clearance-certificate"><b>Police Clearance (PCC)</b></a></td><td>PCC for visas, PR &amp; jobs abroad — Canada, Australia &amp; more.</td></tr>
+    <tr><td>📤 <a href="https://nridirect.uk/services/oci-passport-upload-assistance"><b>Document Upload Assistance</b></a></td><td>Already prepared? We format, convert &amp; submit on the portal.</td></tr>
+    <tr><td>🇬🇧 <a href="https://nridirect.uk/services/uk-passport-renewal"><b>UK Passport Renewal Assistance</b></a></td><td>Photo, form &amp; countersignatory review before HMPO.</td></tr>
   </tbody>
 </table>
 
 <div align="center">
   <a href="https://nridirect.uk/services"><img src="https://img.shields.io/badge/View%20All%20Services-0F0E0D?style=for-the-badge" alt="View all services"></a>
-  &nbsp;
-  <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents."><img src="https://img.shields.io/badge/Ask%20Us%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ask us on WhatsApp"></a>
 </div>
 
-<hr>
+<br>
 
-<h2>⚙️ How It Works</h2>
+## ⚙️ How It Works
 
-<p>Four simple steps from start to finish — <strong>100% remote, no office visit.</strong></p>
+```mermaid
+flowchart LR
+    A["💬 Tell us<br/>what you need"] --> B["📄 Send us<br/>your documents"]
+    B --> C["🛠️ We prepare<br/>everything"]
+    C --> D["✅ You just<br/>show up at VFS"]
+    style A fill:#0F0E0D,stroke:#E3A23B,color:#fff
+    style B fill:#0F0E0D,stroke:#E3A23B,color:#fff
+    style C fill:#0F0E0D,stroke:#E3A23B,color:#fff
+    style D fill:#E3A23B,stroke:#0F0E0D,color:#0F0E0D
+```
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><strong>1️⃣</strong></td>
-      <td><strong>Tell us what you need</strong><br><a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents.">Message us on WhatsApp</a> — we confirm the right service for your situation.</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>2️⃣</strong></td>
-      <td><strong>Send us your documents</strong><br>We send a checklist. You send photos or scans. No office visit needed.</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>3️⃣</strong></td>
-      <td><strong>We prepare everything</strong><br>Forms filled, photos resized, documents uploaded, VFS appointment booked.</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>4️⃣</strong></td>
-      <td><strong>You just show up</strong><br>Attend VFS with a fully prepared, ready-to-submit file. We track it after, too.</td>
-    </tr>
-  </tbody>
-</table>
+➡️ [**See the full How It Works walkthrough**](https://nridirect.uk/how-it-works)
 
-<p>➡️ <a href="https://nridirect.uk/how-it-works"><strong>See the full How It Works walkthrough</strong></a></p>
+<br>
 
-<hr>
-
-<h2>✅ Doing It Yourself vs. Doing It Right</h2>
+## ✅ Doing It Yourself vs. Doing It Right
 
 <table>
-  <thead>
-    <tr>
-      <th align="left">❌ Going it alone</th>
-      <th align="left">✅ With <a href="https://nridirect.uk">NriDirect</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li>Appointment slots vanish before you book — portal crashes</li>
-          <li>Photo rejected at the VFS counter — wrong size, shadow or background</li>
-          <li>Wrong service selected — OCI Link when Miscellaneous was needed</li>
-          <li>Document turned away — missing self-attestation</li>
-          <li>Wrong VFS jurisdiction booked — adds weeks</li>
-          <li>No one to call on appointment day</li>
-          <li>Start over — second appointment, second day off work</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>We book your VFS appointment — right centre, right date</li>
-          <li>Photo formatted to exact 2026 ICAO spec — first-time acceptance</li>
-          <li>We confirm the correct service <em>before</em> you pay</li>
-          <li>Every document checked, self-attested &amp; formatted</li>
-          <li>Correct jurisdiction confirmed for your postcode</li>
-          <li><strong>WhatsApp support 7 days</strong> — even at the VFS counter</li>
-          <li>Rejected due to our error? We rework &amp; resubmit free</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+<tr>
+<th align="left">❌ Going it alone</th>
+<th align="left">✅ With <a href="https://nridirect.uk">NriDirect</a></th>
+</tr>
+<tr>
+<td valign="top">
+
+- Appointment slots vanish before you book
+- Photo rejected at the VFS counter
+- Wrong service selected
+- Document turned away — missing self-attestation
+- Wrong VFS jurisdiction — adds weeks
+- No one to call on appointment day
+- Start over — second day off work
+
+</td>
+<td valign="top">
+
+- We book the right centre &amp; date for you
+- Photo to exact 2026 ICAO spec
+- Correct service confirmed *before* you proceed
+- Every document checked &amp; self-attested
+- Jurisdiction confirmed for your postcode
+- **WhatsApp support 7 days** — even at the counter
+- Rejected due to our error? We redo it free
+
+</td>
+</tr>
 </table>
 
-<hr>
+<br>
 
-<h2>❓ Quick Answers Before You Start</h2>
+## ❓ FAQ
 
 <details>
-  <summary><strong>Do I need to visit your office?</strong></summary>
-  <p>No. All our services are designed to be <strong>100% remote</strong>. You send documents by email or WhatsApp and only visit VFS or the Indian mission when required.</p>
+<summary><b>Do I need to visit your office?</b></summary><br>
+No. All our services are <b>100% remote</b>. You send documents by email or WhatsApp and only visit VFS or the Indian mission when required.
 </details>
 
 <details>
-  <summary><strong>Can you help if I started an application myself?</strong></summary>
-  <p>Yes. In most cases we can review, correct and complete partially filled applications — as long as they haven't been finally submitted.</p>
+<summary><b>Can you help if I started an application myself?</b></summary><br>
+Yes. In most cases we can review, correct and complete partially filled applications — as long as they haven't been finally submitted.
 </details>
 
 <details>
-  <summary><strong>Is your fee separate from VFS or embassy fees?</strong></summary>
-  <p>Yes. Our service charge covers preparation and support. VFS, embassy or e-Visa fees are either included clearly in the product description or paid directly by you at submission.</p>
+<summary><b>Is your service charge separate from VFS or embassy fees?</b></summary><br>
+Yes. Our service charge covers preparation and support. VFS, embassy or e-Visa fees are set out clearly in the service description or paid directly by you at submission.
 </details>
 
 <details>
-  <summary><strong>Can you advise which service I actually need?</strong></summary>
-  <p>Of course. Unsure between OCI, visa or passport options? Send a short <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents.">WhatsApp message</a> and we'll recommend the correct route before you pay anything.</p>
+<summary><b>Can you advise which service I actually need?</b></summary><br>
+Of course. Send a short <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20immigration%20documents.">WhatsApp message</a> and we'll recommend the correct route before you proceed.
 </details>
 
 <details>
-  <summary><strong>Do you only serve people in the UK?</strong></summary>
-  <p>Our main focus is applicants in the <strong>UK and Europe</strong> using VFS centres here, but we can sometimes support other locations — <a href="https://nridirect.uk/contact">contact us</a> with your details and we'll confirm.</p>
+<summary><b>Do you only serve people in the UK?</b></summary><br>
+Our main focus is the <b>UK and Europe</b> using VFS centres here, but we can sometimes support other locations — <a href="https://nridirect.uk/contact">contact us</a> and we'll confirm.
 </details>
 
-<p>➡️ <a href="https://nridirect.uk/faq"><strong>View all FAQs</strong></a></p>
+➡️ [**View all FAQs**](https://nridirect.uk/faq)
 
-<hr>
+<br>
 
-<h2>🔒 Trust &amp; Security</h2>
+## 🔒 Trust &amp; Security
 
-<ul>
-  <li>🛡️ <a href="https://nridirect.uk/trust"><strong>ICO Registered</strong></a> — registered with the UK Information Commissioner's Office</li>
-  <li>🔐 <strong>GDPR Compliant</strong> — your data is protected at every step</li>
-  <li>📅 <strong>Operating since 2018</strong> — 5,000+ applications handled for Indian-origin families</li>
-  <li>🤝 <strong>Independent service</strong> — <em>NriDirect is not affiliated with the Indian Government, VFS Global, or any government body.</em></li>
-</ul>
+> [!NOTE]
+> 🛡️ [**ICO Registered**](https://nridirect.uk/trust) · 🔐 **GDPR Compliant** · 📅 **Since 2018** · 🤝 **Independent service**
+>
+> *NriDirect is not affiliated with the Indian Government, VFS Global, or any government body.*
 
-<p>➡️ <a href="https://nridirect.uk/trust"><strong>Read about our Trust &amp; Security standards</strong></a></p>
+<br>
 
-<hr>
+## 🔗 Explore
 
-<h2>🔗 Explore NriDirect</h2>
+**Company** — [About](https://nridirect.uk/about) · [How It Works](https://nridirect.uk/how-it-works) · [Trust &amp; Security](https://nridirect.uk/trust) · [Locations](https://nridirect.uk/locations) · [Contact](https://nridirect.uk/contact)
 
-<p><strong>Company:</strong>
-  <a href="https://nridirect.uk/about">About Us</a> ·
-  <a href="https://nridirect.uk/how-it-works">How It Works</a> ·
-  <a href="https://nridirect.uk/trust">Trust &amp; Security</a> ·
-  <a href="https://nridirect.uk/locations">Locations</a> ·
-  <a href="https://nridirect.uk/contact">Contact</a>
-</p>
+**Resources** — [Blog](https://nridirect.uk/blog) · [FAQ](https://nridirect.uk/faq) · [Free OCI Eligibility Check](https://nridirect.uk/tools/check-oci-eligibility) · [Sitemap](https://nridirect.uk/sitemap.xml)
 
-<p><strong>Resources:</strong>
-  <a href="https://nridirect.uk/blog">Blog</a> ·
-  <a href="https://nridirect.uk/faq">FAQ</a> ·
-  <a href="https://nridirect.uk/tools/check-oci-eligibility">Free OCI Eligibility Check</a> ·
-  <a href="https://nridirect.uk/sitemap.xml">Sitemap</a>
-</p>
+**Legal** — [Privacy](https://nridirect.uk/privacy) · [Terms](https://nridirect.uk/terms) · [Refund](https://nridirect.uk/refund) · [Editorial Standards](https://nridirect.uk/editorial-standards) · [Disclaimer](https://nridirect.uk/disclaimer)
 
-<p><strong>Legal:</strong>
-  <a href="https://nridirect.uk/privacy">Privacy Policy</a> ·
-  <a href="https://nridirect.uk/terms">Terms of Service</a> ·
-  <a href="https://nridirect.uk/refund">Refund Policy</a> ·
-  <a href="https://nridirect.uk/editorial-standards">Editorial Standards</a> ·
-  <a href="https://nridirect.uk/disclaimer">Disclaimer</a>
-</p>
-
-<hr>
+---
 
 <div align="center">
 
-  <h2>Ready to start? Choose your service.</h2>
+### Ready to start? Choose your service.
 
-  <p>Fixed fees · full prep included · your VFS appointment booked for you.<br>Most applications are prepared within <strong>48 hours</strong>.</p>
+Full prep included · your VFS appointment booked for you · most applications prepared within **48 hours**.
 
-  <p>
-    <a href="https://nridirect.uk/services"><img src="https://img.shields.io/badge/Get%20Started%20Now-0F0E0D?style=for-the-badge" alt="Get started now"></a>
-    &nbsp;
-    <a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20Indian%20document%20service."><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"></a>
-  </p>
+<a href="https://nridirect.uk/services"><img src="https://img.shields.io/badge/Get%20Started%20Now-0F0E0D?style=for-the-badge" alt="Get started now"></a>
+&nbsp;
+<a href="https://wa.me/447454034747?text=Hi%20NriDirect%2C%20I%20need%20help%20with%20my%20Indian%20document%20service."><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"></a>
 
-  <p>📍 United Kingdom &nbsp;·&nbsp; 📱 <a href="https://wa.me/447454034747">+44 7454 034747</a> &nbsp;·&nbsp; 🐦 <a href="https://twitter.com/nridirect">@nridirect</a></p>
+<br><br>
 
-  <sub>© 2026 <a href="https://nridirect.uk">NriDirect</a>. All rights reserved. · Independent document assistance — not affiliated with the Indian Government or VFS Global.</sub>
+📍 United Kingdom · 📱 <a href="https://wa.me/447454034747">+44 7454 034747</a> · 🐦 <a href="https://twitter.com/nridirect">@nridirect</a>
+
+<sub>© 2026 <a href="https://nridirect.uk">NriDirect</a>. Independent document assistance — not affiliated with the Indian Government or VFS Global.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2620,100:0F0E0D&height=120&section=footer" alt="" width="100%">
 
 </div>
